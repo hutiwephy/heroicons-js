@@ -9,5 +9,5 @@ Only the 24px icons are suported:
 
 Usage example:
 ```html
-<i class="hicon-outline-academic-cap">
+<i class="hicon-outline-academic-cap"></i>
 ```
